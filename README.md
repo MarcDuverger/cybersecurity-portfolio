@@ -1,5 +1,5 @@
 👋 Marc Duverger — Portfolio Cybersécurité
-> Analyste en cybersécurité à double orientation **SOC / Blue Team** et **Test d'intrusion / Red Team**. Je détecte les attaques *et* je sais les mener.
+> Reconversion pro dans la cybersécurité orientation **Test d'intrusion / Red Team**. Je détecte les attaques *et* je sais les mener.
 ---
 🧭 À propos
 Reconverti de l'audiovisuel vers la cybersécurité, je suis certifié à la Guardia Cybersecurity School (Bloc 3 — Analyste en cybersécurité). Je prépare actuellement la certification eJPT (eLearnSecurity Junior Penetration Tester).
@@ -25,7 +25,7 @@ Offensive : Nmap · exploitation web · Metasploit / searchsploit · reverse she
 Méthodologie : MITRE ATT&CK · NIST CSF · Zero Trust · rédaction de rapports d'audit et de pentest
 ---
 📫 Contact
-LinkedIn : (lien à ajouter)
-Email : (à compléter — ou renvoyer vers LinkedIn)
+LinkedIn : linkedin.com/in/marc-duverger-cyber
+Email : marcduverger.ynwa@gmail.com
 ---
 Tous les tests présentés dans ce portfolio ont été réalisés dans des environnements de laboratoire isolés, à des fins pédagogiques et légales.
