@@ -27,5 +27,6 @@ Méthodologie : MITRE ATT&CK · NIST CSF · Zero Trust · rédaction de rapports
 📫 Contact
 LinkedIn : linkedin.com/in/marc-duverger-cyber
 Email : marcduverger.ynwa@gmail.com
+- **CV :** [Télécharger (PDF)](./CV_Marc_Duverger_Public.pdf)
 ---
 Tous les tests présentés dans ce portfolio ont été réalisés dans des environnements de laboratoire isolés, à des fins pédagogiques et légales.
